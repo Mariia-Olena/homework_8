@@ -262,7 +262,7 @@ main {
     line-height: 16px;
 }
 
-.remail::placeholder {
+.email::placeholder {
     color: #C4C4C4;
 }
 
@@ -325,7 +325,6 @@ main {
     line-height: 28px;
     color: #828282;
     text-decoration: none;
-
 }
 
 .list-category {
