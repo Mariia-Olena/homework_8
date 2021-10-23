@@ -11,7 +11,7 @@ main {
 }
 
 .container {
-    max-width: 1110px;
+    width: 1110px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -25,6 +25,7 @@ main {
     padding-top: 17px;
     padding-bottom: 16px;
     text-align: center;
+
 }
 
 .link {
@@ -54,6 +55,7 @@ main {
     color: #F13C6E;
     text-transform: uppercase;
     text-decoration: none;
+    float: left;
 }
 
 .logo-text {
@@ -61,6 +63,7 @@ main {
     vertical-align: top;
     margin-left: 20px;
     margin-top: 21px;
+    float: right;
 }
 
 .feed-back {
@@ -362,5 +365,5 @@ main {
 }
 
 .copyright-text {
-    display: inline;
+    float: left;
 }
